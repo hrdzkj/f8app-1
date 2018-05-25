@@ -91,3 +91,17 @@ In a separate terminal window run:
   ```
   $ react-native start
   ```
+
+
+{
+  schedule {
+    title
+    speakers {
+      name
+      title
+    }
+    location {
+      name
+    }
+  }
+}

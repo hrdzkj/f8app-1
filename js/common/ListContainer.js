@@ -120,7 +120,7 @@ class ListContainer extends React.Component {
 
   static contextTypes = {
     openDrawer: React.PropTypes.func,
-    hasUnreadNotifications: React.PropTypes.number,
+    hasUnreadNotifications: React.PropTypes.bool,
   };
 
   constructor(props: Props) {
