@@ -29,6 +29,8 @@ ios/F8v2.xcworkspace
 .idea
 .gradle
 local.properties
+android/gradle
+android/app/build
 *.iml
 
 # node.js
