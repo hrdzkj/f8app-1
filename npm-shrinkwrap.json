@@ -7849,7 +7849,7 @@
       "integrity": "sha1-rBICpV7Fl2Gfh9B6ya80VjSxsIM="
     },
     "react-native-push-notification": {
-      "version": "git://github.com/frantic/react-native-push-notification.git#7142da7ab83f010b6847caf36526044c27a68391"
+      "version": "github:frantic/react-native-push-notification#7142da7ab83f010b6847caf36526044c27a68391"
     },
     "react-native-send-intent": {
       "version": "1.0.11",
@@ -7857,7 +7857,7 @@
       "integrity": "sha1-rJTO9pt5aFO+dXEl8oKToQaxCaQ="
     },
     "react-native-share": {
-      "version": "git://github.com/frantic/react-native-share.git#674df947b36e9a34712bb8ef6fe3de3cff7b412e"
+      "version": "github:frantic/react-native-share#674df947b36e9a34712bb8ef6fe3de3cff7b412e"
     },
     "react-proxy": {
       "version": "1.1.8",

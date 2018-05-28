@@ -75,13 +75,13 @@ def enableSeparateBuildPerCPUArchitecture = false
 def enableProguardInReleaseBuilds = false
 
 android {
-    compileSdkVersion 23
+    compileSdkVersion 27
     buildToolsVersion "23.0.1"
 
     defaultConfig {
         applicationId "com.facebook.f8"
         minSdkVersion 16
-        targetSdkVersion 22
+        targetSdkVersion 23
         versionCode 10000323
         versionName "3.2.3"
         ndk {
@@ -142,7 +142,7 @@ android {
 
 dependencies {
     compile fileTree(dir: "libs", include: ["*.jar"])
-    compile "com.android.support:appcompat-v7:23.0.1"
+    compile "com.android.support:appcompat-v7:27.0.1"
     compile "com.facebook.react:react-native:0+" // From node_modules
     compile "com.facebook.android:facebook-android-sdk:4.8.1"
     compile project(":react-native-linear-gradient")
